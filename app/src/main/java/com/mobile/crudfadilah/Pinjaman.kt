@@ -1,6 +1,6 @@
 package com.mobile.crudfadilah
 
-class pinjaman {
+class Pinjaman {
 
     var id: Int? = null
     var name: String? = null
